@@ -1,0 +1,7 @@
+{
+  "trunk": {
+    "name": "My inbound trunk example",
+    "auth_username": "<YOUR_LIVEKIT_SIP_INBOUND_USERNAME>",
+    "auth_password": "<YOUR_LIVEKIT_SIP_INBOUND_PASSWORD>"
+  }
+}

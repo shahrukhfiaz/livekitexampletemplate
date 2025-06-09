@@ -108,6 +108,7 @@ web_modules/
 
 # Configuration files with secrets
 outbound-trunk.json
+inbound-trunk.json
 
 # parcel-bundler cache (https://parceljs.org/)
 
