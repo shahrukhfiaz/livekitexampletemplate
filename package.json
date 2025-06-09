@@ -14,7 +14,8 @@
     "fix": "gts fix",
     "agent": "dotenvx run -f .env.local -- tsx src/agent.ts dev",
     "setup:twilio": "dotenvx run -f .env.local -- tsx src/setup-twilio.ts",
-    "setup:livekit": "dotenvx run -f .env.local -- tsx src/setup-livekit.ts"
+    "setup:livekit": "dotenvx run -f .env.local -- tsx src/setup-livekit.ts",
+    "call:outbound": "dotenvx run -f .env.local -- tsx src/make-outbound-call.ts"
   },
   "repository": {
     "type": "git",

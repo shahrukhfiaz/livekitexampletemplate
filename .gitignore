@@ -106,6 +106,9 @@ web_modules/
 .env.production.local
 .env.local
 
+# Configuration files with secrets
+outbound-trunk.json
+
 # parcel-bundler cache (https://parceljs.org/)
 
 .parcel-cache

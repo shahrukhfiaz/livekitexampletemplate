@@ -1,0 +1,9 @@
+{
+  "trunk": {
+    "name": "my-twilio-outbound-trunk-example",
+    "address": "<YOUR_TWILIO_SIP_TRUNK_DOMAIN_OR_IP>",
+    "numbers": ["<YOUR_CALLER_ID_PHONE_NUMBER>"],
+    "auth_username": "<YOUR_TWILIO_SIP_TRUNK_USERNAME>",
+    "auth_password": "<YOUR_TWILIO_SIP_TRUNK_PASSWORD>"
+  }
+}
